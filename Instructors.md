@@ -1,20 +1,22 @@
 ## Modules Instructors and Developers
 
-###[JuanMarcos](http://www.alarconlab.com), SUNY Downstate Medical 
+###[David Schulz](https://schulz.biology.missouri.edu), University of Missouri  
 
-
+The general theme of the work in the Schulz lab is a desire to understand the mechanisms underlying neural network function from both the perspective of an individual cell as well as the coordinated activity of the network as a whole. Our model systems are the crustacean stomatogastric ganglion (STG) and cardiac ganglion (CG), as well as the mouse spinal cord. The STG has been at the forefront of electrophysiological questions of neural network function for over 3 decades. Our approach seeks to take this well characterized network to the molecular level to ask detailed questions about the interaction between the genome and the electrophysiogical output of individual cells and the network as a whole. Our goal is to use these model systems to shed light on both the endogenous mechanisms of neural network function, but also responses of these networks in response to injury and other perturbations that challenge the system.
 
 ### [Eva Fischer](http://evakfischer.weebly.com), Harvard University
 
 Dr. Eva Fischer is interested in the mechanisms by which behavioral diversity evolves and is maintained, both within and among species. She uses integrative approaches to understand mechanisms underlying behavioral evolution, including the role of developmental plasticity and phenotypic integration, and whether parallel evolutionary events share common molecular, developmental, and neural substrates. During her doctoral work, Eva took advantage of Trinidadian guppies to understand how genetic and environmental forces interact to drive behavioral evolution within a single species. Now, during her postdoctoral work in Dr. Lauren O’Connell’s Lab, she is taking advantage of the fantastic variation in behavior (and other traits) in poison frogs to understand inter– as well as intra-specific patterns. Specifically, she is examining to what extent similar parental care behaviors are mediated by similar neural, hormonal, and molecular substrates across individuals and species.
 
-### [Rayna Harris](http://raynamharris.github.io), The University of Texas at Austin
+
+### [Rayna Harris](http://raynamharris.github.io), University of Texas at Austin
 
 Rayna Harris 4th year graduate student in the cellular and molecular biology program at The University of Texas in Austin. She has been a member of Hans Hofmann’s lab since 2009, when I joined as the lab manager. Her research interests focus on the neuromolecular and endocrine mechanisms that regulate social behavior. Rayna has also been a Course Developer since 2013, working to develop tools molecular module for the NS&B and conducting a collaborative research project that unites the expertise of the Hofmann and Fenton Labs.
 
-### [Rachel Wright](http://rmwright.weebly.com), The University of Texas at Austin
+### [Adam Northcutt](https://schulz.biology.missouri.edu), University of Missouri
 
-Rachel Wright attended the University of Texas at Austin from 2005–2008 to complete my bachelor's degree in Cell and Molecular Biology. I worked in industry at Worldwide Clinical Trials (originally Cedra) in Austin before going back to UT for her Ph.D. She is passionate about developing tools to mitigate damage associated with global climate change and pretty crazy about tacos too.
+Adam Northcutt is a 2nd year graduate student in the Biological Sciences PhD Program at the University of Missouri-Columbia.  He has been a member of the David Schulz lab since 2014, where he has worked to understand the underlying molecular characteristics that determine neuronal function.
+
 
 ### [Hans Hofmann](http://cichlid.biosci.utexas.edu), University of Texas at Austin
 
