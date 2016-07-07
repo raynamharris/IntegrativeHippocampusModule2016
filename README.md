@@ -11,15 +11,17 @@ Day | Activity|Instructors
 Monday 7-18 | Morning Lectures | 
  | Module Overview & Introductions | JMA AAF EF RMW RMH
  | [Pipette exercise: RNA dilution series](protocols/RNA_pipette_exercise.mg) | RMW RMH
- | qPCR primer efficiency test | RMW RMH
+ | [qPCR primer efficiency test](TaqManqPCRProtocol.pdf) | RMW RMH
  | Introduction to the Unix Shell & Data Organization | RMW RMH
 Tuesday 7-19 | Morning Lectures | 
  | Candidate Genes & Learning | JMA AAF
  | Principles of qPCR | RMW RMH
- | Candidate gene qPCR group exercise | RMW RMH
- | Ananlysis of qPCR data in R | RMW RMH
+ | [Candidate gene qPCR group exercise](TaqManqPCRProtocol.pdf) | RMW RMH
+ | [Analysis of qPCR data in R](mcmc.qpcr.tutorial.pdf) | RMW RMH
 Wednesday 7-20 | Concepts of RNA isolation & reverse transcription | RMW RMH 
- | RNA isolation, reverse transcription & qPCR group exercise | RMW RMH 
+ | [RNA isolation](RNAisolationProtocol.pdf) | RMW RMH 
+ | [Reverse Transcription](ReverseTranscriptionProctocol) | RMW RMH 
+ | qPCR group exercise | RMW RMH 
  | qPCR data analysis in R | JMA AAF RMW RMH
  | Wednesday Evening Lecture | JMA AAF RMW RMH
  | Interpreting Data | JMA AAF RMW RMH
@@ -33,4 +35,5 @@ Friday 7-22 | Morning Lectures |
 Saturday 7-23 | Morning Lectures | 
  | Introduction to TACC | EF RMW RMH
  | Mandatory Recreation | 
+ | Continuation of RNA isolation & cDNA synthesis| RMW RMH
 
