@@ -12,7 +12,7 @@ Monday 7-18 | Morning Lectures |
  | Module Overview & Introductions | JMA AAF EF RMW RMH
  | [Pipette exercise: RNA dilution series](protocols/RNA_pipette_exercise.mg) | RMW RMH
  | qPCR primer efficiency test | RMW RMH
- | Introduction to the Unix Shell | RMW RMH
+ | Introduction to the Unix Shell & Data Organization | RMW RMH
 Tuesday 7-19 | Morning Lectures | 
  | Candidate Genes & Learning | JMA AAF
  | Principles of qPCR | RMW RMH
