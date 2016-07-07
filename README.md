@@ -24,7 +24,7 @@ Wednesday 7-20 | Concepts of RNA isolation & reverse transcription | RMW RMH
  | Wednesday Evening Lecture | JMA AAF RMW RMH
  | Interpreting Data | JMA AAF RMW RMH
 Thursday 7-21 | Morning Lectures | 
- | Student presentations | Studnets!
+ | Student presentations | JMA AAF EF RMW RMH
  | Discuss special projects | JMA AAF RMW RMH
  | Primer Design Tutorial | RMW RMH
 Friday 7-22 | Morning Lectures |  
