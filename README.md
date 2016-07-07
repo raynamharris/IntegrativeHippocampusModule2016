@@ -2,22 +2,35 @@ Welcome to the resources webpage for the 2016 Integrative STG Module! We are rea
 
 ## Meet the Instructors
 During this module, you will learn a lot from [JuanMarcos](http://www.alarconlab.com), [Eva Fischer](http://evakfischer.weebly.com), [Rayna Harris](http://raynamharris.github.io),
-[Rachel Wright](http://rmwright.weebly.com), and [Hans Hofmann](http://cichlid.biosci.utexas.edu). You can also read our short biographies [here](Instructors.md).
+[Rachel Wright](http://rmwright.weebly.com), [Hans Hofmann](http://cichlid.biosci.utexas.edu), and [Andre Fenton](http://www.cns.nyu.edu/corefaculty/Fenton.php). You can also read our short biographies [here](Instructors.md).
 
 
 ## Schedule
-Day | Activity|Where
+Day | Activity|Instructors
 :---|:---|:---
-Monday 7-18 | Module Overview & Introductions | TBA
- | Pipette exercise: RNA dilution series | Loeb 157
- | qPCR primer efficiency test and analysis | Loeb 157
- | Discuss special projects
- | Discuss candidate genes, buy primers | Loeb G70N  
-Tuesday 7-19 | Concepts of RNA isolation & reverse transcription | TBA 
- | Practice RNA isolation, reverse transcription & qPCR | Loeb 157
- | Analysis of data | Loeb 157
-Wednesday 7-20 | Discuss today's group project - strain x learning x brain region experiment  | TBA 
- | RNA isolation, reverse transcription & qPCR | Loeb 157
- | Analysis of data | Loeb 157
-Thursday 7-21 | present results of yesterday's project
+Monday 7-18 | Morning Lectures | 
+ | Module Overview & Introductions | JMA AAF EF RMW RMH
+ | [Pipette exercise: RNA dilution series](protocols/RNA_pipette_exercise.mg) | RMW RMH
+ | qPCR primer efficiency test | RMW RMH
+ | Introduction to the Unix Shell | RMW RMH
+Tuesday 7-19 | Morning Lectures | 
+ | Candidate Genes & Learning | JMA AAF
+ | Principles of qPCR | RMW RMH
+ | Candidate gene qPCR group exercise | RMW RMH
+ | Ananlysis of qPCR data in R | RMW RMH
+Wednesday 7-20 | Concepts of RNA isolation & reverse transcription | RMW RMH 
+ | RNA isolation, reverse transcription & qPCR group exercise | RMW RMH 
+ | qPCR data analysis in R | JMA AAF RMW RMH
+ | Wednesday Evening Lecture | JMA AAF RMW RMH
+ | Interpreting Data | JMA AAF RMW RMH
+Thursday 7-21 | Morning Lectures | 
+ | Student presentations | Studnets!
+ | Discuss special projects | JMA AAF RMW RMH
+ | Primer Design Tutorial | RMW RMH
+Friday 7-22 | Morning Lectures |  
+ | Experimental design | JMA AAF RMW RMH
+ | RNA isolation & cDNA synthesis| RMW RMH
+Saturday 7-23 | Morning Lectures | 
+ | Introduction to TACC | EF RMW RMH
+ | Mandatory Recreation | 
 
