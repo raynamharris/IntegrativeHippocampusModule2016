@@ -20,11 +20,11 @@ Tues | Morning Lectures | Loeb G70N
 Wed | No Morning Lectures | 
  | [Taqman qPCR - Prkci, Prkcz, Frm1, Arc Standard Curves](Tprotocols/aqManqPCRProtocol.pdf) and [Analysis of qPCR data in R with MCMC.qpcr](mcmc.qpcr.tutorial.pdf)| Loeb 157
  | [RNA isolation](protocols/RNAisolationProtocol.pdf) and [Reverse Transcription](protocols/ReverseTranscriptionProctocol.pdf) of whole slices | Loeb 157 
- | Wednesday evening lecture, discussion of special projects, order primers | Rowe, breakroom
+ | Wednesday evening lecture, discussion of special projects| Rowe, breakroom
 Thurs | Morning Lectures | Loeb G70N
  | [RNA isolation](protocols/RNAisolationProtocol.pdf) from punches | RMW RMH 
  | [Reverse Transcription](ReverseTranscriptionProctocol) of punches. [Taqman qPCR - Prkci, Prkcz, Frm1, Arc on tissues and punches](protocols/TaqManqPCRProtocol.pdf) | Loeb 157  
- | Data analysis and interpretation in R | Loeb 157
+ | Data analysis and interpretation in R, order primers  | Loeb 157
 Fri | Morning Lectures | Loeb G70N
  | [Getting a TACC account](https://github.com/raynamharris/IntegrativeSTGmodule2016) | Breakfroom
  |[Sybr Green qPCR on new genes: standard curves, slices, and punches](protocols/SybrGreenqPCRProtocol.pdf) | Loeb 157
