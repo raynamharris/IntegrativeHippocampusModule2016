@@ -26,7 +26,7 @@ Thurs | Morning Lectures | Loeb G70N
  | [Reverse Transcription](ReverseTranscriptionProctocol) of punches. [Taqman qPCR - Prkci, Prkcz, Frm1, Arc on tissues and punches](protocols/TaqManqPCRProtocol.pdf) | Loeb 157  
  | Data analysis and interpretation in R, order primers  | Loeb 157
 Fri | Morning Lectures | Loeb G70N
- | [Getting a TACC account](https://github.com/raynamharris/IntegrativeSTGmodule2016) | Breakfroom
+ | [Getting a TACC account](https://github.com/raynamharris/IntegrativeSTGmodule2016) and installing software | Breakfroom
  |[Sybr Green qPCR on new genes: standard curves, slices, and punches](protocols/SybrGreenqPCRProtocol.pdf) | Loeb 157
  | Data analyis & Friday evening lecture | Lillie, breakfoom
 Sat | Morning Lectures |  Loeb G70N
@@ -40,11 +40,11 @@ Day | Activity|Where
 Mon | Morning Lectures | Loeb G70N
  | Intro to Transcriptomic Datasets | TBD
  | How to keep an NGS lab notebook, [Intro to Unix](https://github.com/raynamharris/Shell_Intro_for_Transcriptomics), [Intro to TACC](https://github.com/raynamharris/IntegrativeSTGmodule2016) | TBD
- | Transcriptomics Part 1 | TBD
+ | Transcriptomics Part 1: de novo transcriptome constuction | TBD
 Tues | Morning Lectures | Loeb G70N
  | Experimental design considerations | TBD
- | Transcriptomics Part 2 | Lillie 103
- | Transcriptomics Part 3 | Lillie 103
+ | Transcriptomics Part 2: alignment, abundance estimation, DE analysis | Lillie 103
+ | Transcriptomics Part 3: Multivariate and Covariance analyses | Lillie 103
 Wed- Fri | Work on Group Projects | Loeb 157
 Sat | Group Presentations |  Loeb G70N
  | The Usual Mandatory Recreation + Fun time on the beach! | Outside!
