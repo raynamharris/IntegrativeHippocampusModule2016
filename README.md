@@ -1,4 +1,4 @@
-Welcome to the resources webpage for the 2016 Integrative STG Module! We are really excited to spend the next two weeks with you! Please use this webpage as a community resource where you will find links to lessons, protocols, useful tools, and information about module and the instructors. A description of the overall module objectives and goals, [visit this page](ModuleOverview.md). 
+Welcome to the resources webpage for the 2016 Integrative Hippocampus Module! We are really excited to spend the next two weeks with you! Please use this webpage as a community resource where you will find links to lessons, protocols, useful tools, and information about module and the instructors. A description of the overall module objectives and goals, [visit this page](ModuleOverview.md). 
 
 ## Meet the Instructors
 During this module, you will learn a lot from [JuanMarcos](http://www.alarconlab.com), [Eva Fischer](http://evakfischer.weebly.com), [Rayna Harris](http://raynamharris.github.io),
