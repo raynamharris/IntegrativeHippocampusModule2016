@@ -40,7 +40,7 @@ Day | Activity|Where
 Mon | Morning Lectures | Loeb G70N
  | Intro to Transcriptomic Datasets | TBD
  | How to keep an NGS lab notebook, [Intro to Unix](https://github.com/raynamharris/Shell_Intro_for_Transcriptomics), [Intro to TACC](https://github.com/raynamharris/IntegrativeSTGmodule2016) | TBD
- | Transcriptomics Part 1
+ | Transcriptomics Part 1 | TBD
 Tues | Morning Lectures | Loeb G70N
  | Experimental design considerations | TBD
  | Transcriptomics Part 2 | Lillie 103
