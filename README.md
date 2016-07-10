@@ -12,13 +12,13 @@ Day | Activity|Where
 Mon | Morning Lectures | Loeb G70N
  | Module Overview & Introductions | TBA
  | Hippocampus Image Analysis | Lillie 103
- | Introduction R for Data Organization, Analysis, & Graphing | Lillie 103
+ | [Introduction R for Data Organization, Analysis, & Graphing](https://github.com/raynamharris/R_Intro_for_Bioinformatics) | Lillie 103
 Tues | Morning Lectures | Loeb G70N
  | Discuss Hippocampus Candidate Genes | TBA
  | [Pipette exercise: RNA dilution series](protocols/RNA_pipette_exercise.mg) and [Taqman qPCR - 18S Standard Curves](TaqManqPCRProtocol.pdf) |  Loeb 157
  | Principles of qPCR, analysis of 18S standard curves, Primer Design for qPCR | Lillie 103
 Wed | No Morning Lectures | 
- | [Taqman qPCR - Prkci, Prkcz, Frm1, Arc Standard Curves](Tprotocols/aqManqPCRProtocol.pdf) and [Analysis of qPCR data in R](mcmc.qpcr.tutorial.pdf)| Loeb 157
+ | [Taqman qPCR - Prkci, Prkcz, Frm1, Arc Standard Curves](Tprotocols/aqManqPCRProtocol.pdf) and [Analysis of qPCR data in R with MCMC.qpcr](mcmc.qpcr.tutorial.pdf)| Loeb 157
  | [RNA isolation](protocols/RNAisolationProtocol.pdf) and [Reverse Transcription](protocols/ReverseTranscriptionProctocol.pdf) of whole slices | Loeb 157 
  | Wednesday evening lecture, discussion of special projects, order primers | Rowe, breakroom
 Thurs | Morning Lectures | Loeb G70N
