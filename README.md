@@ -5,35 +5,37 @@ During this module, you will learn a lot from [JuanMarcos](http://www.alarconlab
 [Rachel Wright](http://rmwright.weebly.com), [Hans Hofmann](http://cichlid.biosci.utexas.edu), and [Andre Fenton](http://www.cns.nyu.edu/corefaculty/Fenton.php). You can also read our short biographies [here](Instructors.md).
 
 
-## Schedule
-Day | Activity|Instructors
+## Week 1 Schedule
+
+Day | Activity|Where
 :---|:---|:---
-Monday 7-18 | Morning Lectures | 
- | Module Overview & Introductions | JMA AAF EF RMW RMH
- | [Pipette exercise: RNA dilution series](protocols/RNA_pipette_exercise.mg) | RMW RMH
- | [qPCR primer efficiency test](TaqManqPCRProtocol.pdf) | RMW RMH
- | Introduction to the Unix Shell & Data Organization | RMW RMH
-Tuesday 7-19 | Morning Lectures | 
- | Candidate Genes & Learning | JMA AAF
- | Principles of qPCR | RMW RMH
- | [Candidate gene qPCR group exercise](TaqManqPCRProtocol.pdf) | RMW RMH
- | [Analysis of qPCR data in R](mcmc.qpcr.tutorial.pdf) | RMW RMH
-Wednesday 7-20 | Concepts of RNA isolation & reverse transcription | RMW RMH 
- | [RNA isolation](RNAisolationProtocol.pdf) | RMW RMH 
- | [Reverse Transcription](ReverseTranscriptionProctocol) | RMW RMH 
- | qPCR group exercise | RMW RMH 
- | qPCR data analysis in R | JMA AAF RMW RMH
- | Wednesday Evening Lecture | JMA AAF RMW RMH
- | Interpreting Data | JMA AAF RMW RMH
-Thursday 7-21 | Morning Lectures | 
- | Student presentations | JMA AAF EF RMW RMH
- | Discuss special projects | JMA AAF RMW RMH
- | Primer Design Tutorial | RMW RMH
-Friday 7-22 | Morning Lectures |  
- | Experimental design | JMA AAF RMW RMH
- | RNA isolation & cDNA synthesis| RMW RMH
-Saturday 7-23 | Morning Lectures | 
- | Introduction to TACC | EF RMW RMH
- | Mandatory Recreation | 
- | Continuation of RNA isolation & cDNA synthesis| RMW RMH
+Monday 7-18 | Morning Lectures | Loeb G70N
+ | Module Overview & Introductions | TBA
+ | Hippocampus Image Analysis | Lillie 103
+ | Introduction R for Data Organization, Analysis, & Graphing | Lillie 103
+Tuesday 7-19 | Morning Lectures | Loeb G70N
+ | Discuss Hippocampus Candidate Genes | TBA
+ | [Pipette exercise: RNA dilution series](protocols/RNA_pipette_exercise.mg) and [Taqman qPCR - 18S Standard Curves](TaqManqPCRProtocol.pdf) |  Loeb 157
+ | Principles of qPCR and Primer Design for qPCR | Lillie 103
+Wednesday 7-20 | No Morning Lectures | 
+ | [Taqman qPCR - Prkci, Prkcz, Frm1, Arc Standard Curves](Tprotocols/aqManqPCRProtocol.pdf) and [Analysis of qPCR data in R](mcmc.qpcr.tutorial.pdf)| Loeb 157
+ | [RNA isolation](protocols/RNAisolationProtocol.pdf) and [Reverse Transcription](protocols/ReverseTranscriptionProctocol.pdf) of whole slices | Loeb 157 
+ | Wednesday evening lecture and discussion of special projects | Rowe, breakroom
+Thursday 7-21 | Morning Lectures | Loeb G70N
+ | [RNA isolation](protocols/RNAisolationProtocol.pdf) from punches | RMW RMH 
+ | [Reverse Transcription](ReverseTranscriptionProctocol) of punches. [Taqman qPCR - Prkci, Prkcz, Frm1, Arc on tissues and punches](protocols/TaqManqPCRProtocol.pdf) | Loeb 157  
+ | Data analysis and interpretation in R | Loeb 157
+Friday 7-22 | Morning Lectures | Loeb G70N
+ | Getting a TACC account | Breakfroom
+ |[Sybr Green qPCR standard curves on new genes](protocols/SybrGreenqPCRProtocol.pdf) | Loeb 157
+ | Data analyis & Friday evening lecture | Lillie, breakfoom
+Saturday 7-23  | Morning Lectures |  Loeb G70N
+ | Wrapup | Loeb 157
+ | The Usual Mandatory Recreation + Fun time on the beach! | Outside!
+
+
+## Week 1 Schedule
+Day | Activity|Where
+:---|:---|:---
+
 
