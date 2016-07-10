@@ -9,27 +9,27 @@ During this module, you will learn a lot from [JuanMarcos](http://www.alarconlab
 
 Day | Activity|Where
 :---|:---|:---
-Monday 7-18 | Morning Lectures | Loeb G70N
+Mon 7-18 | Morning Lectures | Loeb G70N
  | Module Overview & Introductions | TBA
  | Hippocampus Image Analysis | Lillie 103
  | Introduction R for Data Organization, Analysis, & Graphing | Lillie 103
-Tuesday 7-19 | Morning Lectures | Loeb G70N
+Tues 7-19 | Morning Lectures | Loeb G70N
  | Discuss Hippocampus Candidate Genes | TBA
  | [Pipette exercise: RNA dilution series](protocols/RNA_pipette_exercise.mg) and [Taqman qPCR - 18S Standard Curves](TaqManqPCRProtocol.pdf) |  Loeb 157
  | Principles of qPCR and Primer Design for qPCR | Lillie 103
-Wednesday 7-20 | No Morning Lectures | 
+Wed 7-20 | No Morning Lectures | 
  | [Taqman qPCR - Prkci, Prkcz, Frm1, Arc Standard Curves](Tprotocols/aqManqPCRProtocol.pdf) and [Analysis of qPCR data in R](mcmc.qpcr.tutorial.pdf)| Loeb 157
  | [RNA isolation](protocols/RNAisolationProtocol.pdf) and [Reverse Transcription](protocols/ReverseTranscriptionProctocol.pdf) of whole slices | Loeb 157 
  | Wednesday evening lecture and discussion of special projects | Rowe, breakroom
-Thursday 7-21 | Morning Lectures | Loeb G70N
+Thurs 7-21 | Morning Lectures | Loeb G70N
  | [RNA isolation](protocols/RNAisolationProtocol.pdf) from punches | RMW RMH 
  | [Reverse Transcription](ReverseTranscriptionProctocol) of punches. [Taqman qPCR - Prkci, Prkcz, Frm1, Arc on tissues and punches](protocols/TaqManqPCRProtocol.pdf) | Loeb 157  
  | Data analysis and interpretation in R | Loeb 157
-Friday 7-22 | Morning Lectures | Loeb G70N
+Fri 7-22 | Morning Lectures | Loeb G70N
  | Getting a TACC account | Breakfroom
  |[Sybr Green qPCR standard curves on new genes](protocols/SybrGreenqPCRProtocol.pdf) | Loeb 157
  | Data analyis & Friday evening lecture | Lillie, breakfoom
-Saturday 7-23  | Morning Lectures |  Loeb G70N
+Sat 7-23  | Morning Lectures |  Loeb G70N
  | Wrapup | Loeb 157
  | The Usual Mandatory Recreation + Fun time on the beach! | Outside!
 
