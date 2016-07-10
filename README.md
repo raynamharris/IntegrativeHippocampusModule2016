@@ -27,7 +27,7 @@ Thurs | Morning Lectures | Loeb G70N
  | Data analysis and interpretation in R | Loeb 157
 Fri | Morning Lectures | Loeb G70N
  | Getting a TACC account | Breakfroom
- |[Sybr Green qPCR standard curves on new genes](protocols/SybrGreenqPCRProtocol.pdf) | Loeb 157
+ |[Sybr Green qPCR on new genes: standard curves, slices, and punches](protocols/SybrGreenqPCRProtocol.pdf) | Loeb 157
  | Data analyis & Friday evening lecture | Lillie, breakfoom
 Sat | Morning Lectures |  Loeb G70N
  | Wrapup | Loeb 157
