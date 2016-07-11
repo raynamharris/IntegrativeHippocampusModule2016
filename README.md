@@ -34,7 +34,7 @@ Sat | Morning Lectures |  Loeb G70N
  | The Usual Mandatory Recreation + Fun time on the beach! | Outside!
 
 
-## Week 1 Schedule
+## Week 2 Schedule
 Day | Activity|Where
 :---|:---|:---
 Mon | Morning Lectures | Loeb G70N
