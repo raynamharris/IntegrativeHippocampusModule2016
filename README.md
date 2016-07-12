@@ -1,4 +1,4 @@
-Welcome to the resources webpage for the 2016 Integrative STG Module! We are really excited to spend the next two weeks with you! Please use this webpage as a community resource where you will find links to lessons, protocols, useful tools, and information about module and the instructors. A description of the overall module objectives and goals, [visit this page](ModuleOverview.md). 
+Welcome to the resources webpage for the 2016 Integrative Hippocampus Module! We are really excited to spend the next two weeks with you! Please use this webpage as a community resource where you will find links to lessons, protocols, useful tools, and information about module and the instructors. A description of the overall module objectives and goals, [visit this page](ModuleOverview.md). 
 
 ## Meet the Instructors
 During this module, you will learn a lot from [JuanMarcos](http://www.alarconlab.com), [Eva Fischer](http://evakfischer.weebly.com), [Rayna Harris](http://raynamharris.github.io),
@@ -39,8 +39,8 @@ Day | Activity|Where
 :---|:---|:---
 Mon | Morning Lectures | Loeb G70N
  | Intro to Transcriptomic Datasets | TBD
- | How to keep an NGS lab notebook, [Intro to Unix](https://github.com/raynamharris/Shell_Intro_for_Transcriptomics), [Intro to TACC](https://github.com/raynamharris/IntegrativeSTGmodule2016) | TBD
- | Transcriptomics Part 1: de novo transcriptome constuction | TBD
+ | Overview of Next Generation Sequencing, [Intro to Unix](https://github.com/raynamharris/Shell_Intro_for_Transcriptomics), [Intro to TACC](https://github.com/raynamharris/IntegrativeSTGmodule2016) | Lillie 100a
+ | Transcriptomics Part 1: de novo transcriptome constuction | Lillie 100a
 Tues | Morning Lectures | Loeb G70N
  | Experimental design considerations | TBD
  | Transcriptomics Part 2: alignment, abundance estimation, DE analysis | Lillie 103
