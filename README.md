@@ -4,6 +4,9 @@ Welcome to the resources webpage for the 2016 Integrative Hippocampus Module! We
 During this module, you will learn a lot from [JuanMarcos](http://www.alarconlab.com), [Eva Fischer](http://evakfischer.weebly.com), [Rayna Harris](http://raynamharris.github.io),
 [Rachel Wright](http://rmwright.weebly.com), [Hans Hofmann](http://cichlid.biosci.utexas.edu), and [Andre Fenton](http://www.cns.nyu.edu/corefaculty/Fenton.php). You can also read our short biographies [here](Instructors.md).
 
+## Mouse qPCR Project 
+The files for this project are stored on the server. They can also be accessed [here](https://github.com/raynamharris/qPCR-mouse). 
+
 
 ## Week 1 Schedule
 
@@ -15,7 +18,7 @@ Mon | Morning Lectures | Loeb G70N
  | [Introduction R for Data Organization, Analysis, & Graphing](https://github.com/raynamharris/R_Intro_for_Bioinformatics) | Lillie 103
 Tues | Morning Lectures | Loeb G70N
  | Discuss Hippocampus Candidate Genes | TBA
- | [Pipette exercise: RNA dilution series](protocols/RNA_pipette_exercise.mg) and [Taqman qPCR - 18S Standard Curves](TaqManqPCRProtocol.pdf) |  Loeb 157
+ | [Pipette exercise: RNA dilution series](protocols/RNA_pipette_exercise.md) and [Taqman qPCR - 18S Standard Curves](TaqManqPCRProtocol.pdf) |  Loeb 157
  | Principles of qPCR, analysis of 18S standard curves, Primer Design for qPCR | Lillie 103
 Wed | No Morning Lectures | 
  | [Taqman qPCR - Prkci, Prkcz, Frm1, Arc Standard Curves](Tprotocols/aqManqPCRProtocol.pdf) and [Analysis of qPCR data in R with MCMC.qpcr](mcmc.qpcr.tutorial.pdf)| Loeb 157
