@@ -14,7 +14,7 @@ Day | Activity|Where
 :---|:---|:---
 Mon | Morning Lectures | Loeb G70N
  | Module Overview & Introductions | TBA
- | Hippocampus Image Analysis | Lillie 103
+ | [Hippocampus Image Analysis](https://github.com/raynamharris/qPCR-mouse/tree/master/slicephotos) | Lillie 103
  | [Introduction R for Data Organization, Analysis, & Graphing](https://github.com/raynamharris/R_Intro_for_Bioinformatics) | Lillie 103
 Tues | Morning Lectures | Loeb G70N
  | Discuss Hippocampus Candidate Genes | TBA
