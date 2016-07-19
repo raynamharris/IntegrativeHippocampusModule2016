@@ -18,15 +18,15 @@ Mon | Morning Lectures | Loeb G70N
  | [Introduction R for Data Organization, Analysis, & Graphing](https://github.com/raynamharris/R_Intro_for_Bioinformatics) | Lillie 103
 Tues | Morning Lectures | Loeb G70N
  | Discuss Hippocampus Candidate Genes | TBA
- | [Pipette exercise: RNA dilution series](protocols/RNA_pipette_exercise.md) and [Taqman qPCR - 18S Standard Curves](TaqManqPCRProtocol.pdf) |  Loeb 157
+ | [Pipette exercise: RNA dilution series](protocols/RNA_pipette_exercise.md) and [Taqman qPCR - 18S Standard Curves](protocols/TaqManqPCRProtocol.pdf) |  Loeb 157
  | Principles of qPCR, analysis of 18S standard curves, Primer Design for qPCR | Lillie 103
 Wed | No Morning Lectures | 
- | [Taqman qPCR - Prkci, Prkcz, Frm1, Arc Standard Curves](Tprotocols/aqManqPCRProtocol.pdf) and [Analysis of qPCR data in R with MCMC.qpcr](mcmc.qpcr.tutorial.pdf)| Loeb 157
+ | [Taqman qPCR - Prkci, Prkcz, Frm1, Arc Standard Curves](protocols/aqManqPCRProtocol.pdf) and [Analysis of qPCR data in R with MCMC.qpcr](mcmc.qpcr.tutorial.pdf)| Loeb 157
  | [RNA isolation](protocols/RNAisolationProtocol.pdf) and [Reverse Transcription](protocols/ReverseTranscriptionProctocol.pdf) of whole slices | Loeb 157 
  | Wednesday evening lecture, discussion of special projects| Rowe, breakroom
 Thurs | Morning Lectures | Loeb G70N
  | [RNA isolation](protocols/RNAisolationProtocol.pdf) from punches | RMW RMH 
- | [Reverse Transcription](ReverseTranscriptionProctocol) of punches. [Taqman qPCR - Prkci, Prkcz, Frm1, Arc on tissues and punches](protocols/TaqManqPCRProtocol.pdf) | Loeb 157  
+ | [Reverse Transcription](protocols/ReverseTranscriptionProctocol.pdf) of punches. [Taqman qPCR - Prkci, Prkcz, Frm1, Arc on tissues and punches](protocols/TaqManqPCRProtocol.pdf) | Loeb 157  
  | Data analysis and interpretation in R, order primers  | Loeb 157
 Fri | Morning Lectures | Loeb G70N
  | [Getting a TACC account](https://github.com/raynamharris/IntegrativeSTGmodule2016) and installing software | Breakfroom
