@@ -14,11 +14,11 @@ Day | Activity|Where
 :---|:---|:---
 Mon | Morning Lectures | Loeb G70N
  | Module Overview & Introductions | TBA
- | [Hippocampus Image Analysis](https://github.com/raynamharris/qPCR-mouse/tree/master/slicephotos) | Lillie 103
+ | [Hippocampus Image Analysis](https://github.com/raynamharris/qPCR-mouse/tree/master/slicephotos) and [Getting a TACC account](https://github.com/raynamharris/IntegrativeSTGmodule2016) | Lillie 103
  | [Introduction R for Data Organization, Analysis, & Graphing](https://github.com/raynamharris/R_Intro_for_Bioinformatics) | Lillie 103
 Tues | Morning Lectures | Loeb G70N
  | Discuss Hippocampus Candidate Genes | TBA
- | [Pipette exercise: RNA dilution series](protocols/RNA_pipette_exercise.md) and [Taqman qPCR - 18S Standard Curves](protocols/TaqManqPCRProtocol.pdf) |  Loeb 157
+ | [Pipette exercise: RNA dilution series](protocols/RNA_pipette_exercise.md) and [qPCR exercise: 18S standard curve](protocols/qPCRexercise.pdf) |  Loeb 157
  | Principles of qPCR, analysis of 18S standard curves, Primer Design for qPCR | Lillie 103
 Wed | No Morning Lectures | 
  | [Taqman qPCR - Prkci, Prkcz, Frm1, Arc Standard Curves](protocols/aqManqPCRProtocol.pdf) and [Analysis of qPCR data in R with MCMC.qpcr](mcmc.qpcr.tutorial.pdf)| Loeb 157
@@ -29,7 +29,7 @@ Thurs | Morning Lectures | Loeb G70N
  | [Reverse Transcription](protocols/ReverseTranscriptionProctocol.pdf) of punches. [Taqman qPCR - Prkci, Prkcz, Frm1, Arc on tissues and punches](protocols/TaqManqPCRProtocol.pdf) | Loeb 157  
  | Data analysis and interpretation in R, order primers  | Loeb 157
 Fri | Morning Lectures | Loeb G70N
- | [Getting a TACC account](https://github.com/raynamharris/IntegrativeSTGmodule2016) and installing software | Breakfroom
+ | Installing software | Breakfroom
  |[Sybr Green qPCR on new genes: standard curves, slices, and punches](protocols/SybrGreenqPCRProtocol.pdf) | Loeb 157
  | Data analyis & Friday evening lecture | Lillie, breakfoom
 Sat | Morning Lectures |  Loeb G70N
