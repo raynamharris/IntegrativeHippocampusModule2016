@@ -1,4 +1,4 @@
-# RT-PCR
+# qPCR exercise: 18S standard curve
 
 ## Learning objectives
 -	Gain experience assembling a qPCR reaction
