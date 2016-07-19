@@ -18,7 +18,7 @@ Mon | Morning Lectures | Loeb G70N
  | [Introduction R for Data Organization, Analysis, & Graphing](https://github.com/raynamharris/R_Intro_for_Bioinformatics) | Lillie 103
 Tues | Morning Lectures | Loeb G70N
  | Discuss Hippocampus Candidate Genes | TBA
- | [Pipette exercise: RNA dilution series](protocols/RNA_pipette_exercise.md) and [qPCR exercise: 18S standard curve](protocols/qPCRexercise.pdf) |  Loeb 157
+ | [Pipette exercise: RNA dilution series](protocols/RNA_pipette_exercise.md) and [qPCR exercise: 18S standard curve](protocols/qPCRexercise.md) |  Loeb 157
  | Principles of qPCR, analysis of 18S standard curves, Primer Design for qPCR | Lillie 103
 Wed | No Morning Lectures | 
  | [Taqman qPCR - Prkci, Prkcz, Frm1, Arc Standard Curves](protocols/aqManqPCRProtocol.pdf) and [Analysis of qPCR data in R with MCMC.qpcr](mcmc.qpcr.tutorial.pdf)| Loeb 157
