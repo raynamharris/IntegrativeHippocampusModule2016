@@ -27,11 +27,10 @@ Wed | No Morning Lectures |
 Thurs | Morning Lectures | Loeb G70N
  | Overview of Reverse Transcrition | Loeb 157
  | [Reverse Transcription](protocols/ReverseTranscriptionProctocol.pdf) of brain RNA then from FMR1 slice RNA | Loeb 157
- | [Taqman](protocols/aqManqPCRProtocol.pdf) or [Sybr Green](protocols/SybrGreenqPCRProtocol.pdf) qPCR on FMR1 tissues!
-  | TBA
+ | [Taqman](protocols/aqManqPCRProtocol.pdf) or [Sybr Green](protocols/SybrGreenqPCRProtocol.pdf) qPCR on FMR1 tissues!| Loeb 157
 Fri | Morning Lectures | Loeb G70N
  | Installing software | Breakfroom
- |Analysis of qPCR data in R with MCMC.qpcr](mcmc.qpcr.tutorial.pdf), order primers  | Loeb 157
+ | Analysis of qPCR data in R with MCMC.qpcr](mcmc.qpcr.tutorial.pdf), order primers  | Loeb 157
  | Data analyis & Friday evening lecture | Lillie, breakfoom
 Sat | Morning Lectures |  Loeb G70N
  | Wrapup | Loeb 157
