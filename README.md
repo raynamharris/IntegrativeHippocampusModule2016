@@ -21,16 +21,16 @@ Tues | Morning Lectures | Loeb G70N
  | [Pipette exercise: RNA dilution series](protocols/RNA_pipette_exercise.md) and [qPCR exercise: 18S standard curve](protocols/qPCRexercise.md) |  Loeb 157
  | Principles of qPCR, analysis of 18S standard curves, Primer Design for qPCR | Lillie 103
 Wed | No Morning Lectures | 
- | [Taqman qPCR - Prkci, Prkcz, Frm1, Arc Standard Curves](protocols/aqManqPCRProtocol.pdf) and [Analysis of qPCR data in R with MCMC.qpcr](mcmc.qpcr.tutorial.pdf)| Loeb 157
- | [RNA isolation](protocols/RNAisolationProtocol.pdf) and [Reverse Transcription](protocols/ReverseTranscriptionProctocol.pdf) of whole slices | Loeb 157 
- | Wednesday evening lecture, discussion of special projects| Rowe, breakroom
+ | [Taqman qPCR - rRNA18S, Prkci, FMR1](protocols/aqManqPCRProtocol.pdf) and [Sybr Green qPCR - CREB1, Prkcz, Htt](protocols/SybrGreenqPCRProtocol.pdf)| Loeb 157
+ | [RNA isolation](protocols/RNAisolationProtocol.pdf) from brain tissue for practice then RNA isolation from FRMR1 slices for group project | Loeb 157 
+ | Wednesday evening lecture, discussion of PKMZ and special projects| Rowe, breakroom
 Thurs | Morning Lectures | Loeb G70N
- | [RNA isolation](protocols/RNAisolationProtocol.pdf) from punches | RMW RMH 
- | [Reverse Transcription](protocols/ReverseTranscriptionProctocol.pdf) of punches. [Taqman qPCR - Prkci, Prkcz, Frm1, Arc on tissues and punches](protocols/TaqManqPCRProtocol.pdf) | Loeb 157  
- | Data analysis and interpretation in R, order primers  | Loeb 157
+ | Overview of Reverse Transcrition | Loeb 157
+ | [Reverse Transcription](protocols/ReverseTranscriptionProctocol.pdf) of brain RNA then from FMR1 slice RNA | Loeb 157
+ | [Analysis of qPCR data in R with MCMC.qpcr](mcmc.qpcr.tutorial.pdf), order primers  | TBA
 Fri | Morning Lectures | Loeb G70N
  | Installing software | Breakfroom
- |[Sybr Green qPCR on new genes: standard curves, slices, and punches](protocols/SybrGreenqPCRProtocol.pdf) | Loeb 157
+ |[Taqman](protocols/aqManqPCRProtocol.pdf) or [Sybr Green](protocols/SybrGreenqPCRProtocol.pdf) qPCR on FMR1 tissues! | Loeb 157
  | Data analyis & Friday evening lecture | Lillie, breakfoom
 Sat | Morning Lectures |  Loeb G70N
  | Wrapup | Loeb 157

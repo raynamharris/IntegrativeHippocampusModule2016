@@ -1,3 +1,6 @@
+---
+output: pdf_document
+---
 # cDNA Pipette Exercise: Serial Dilutions 
 
 ## Learning objectives
