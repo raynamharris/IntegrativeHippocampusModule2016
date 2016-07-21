@@ -1,0 +1,30 @@
+##Intro to BLAST/Primer design
+
+Activity 1: Someone gave you these primers for a CREB gene in mouse. Are they OK? Where are they?
+Forward:
+AGCCGGGTACTACCATTCTAC
+Reverse:
+GCAGCTTGAACAACAACTTGG
+
+NCBI:
+http://www.ncbi.nlm.nih.gov/
+
+Example gene:
+XM_011238425.2
+
+Activity 2: Design your own primers for that gene.
+Here are some example primer design services.
+http://bioinfo.ut.ee/primer3-0.4.0/
+http://www.ncbi.nlm.nih.gov/tools/primer-blast/
+
+Extra info:
+
+Intro to qPCR with good overview of primer design:
+https://www.thermofisher.com/us/en/home/brands/thermo-scientific/molecular-biology/molecular-biology-learning-center/molecular-biology-resource-library/basic-principles-rt-qpcr.html
+
+Example of primer database for lucky people who work with model systems:
+http://www.rtprimerdb.org/
+
+Example NCBI primer picking tool from BLASTed CREB gene:
+http://www.ncbi.nlm.nih.gov/tools/primer-blast/index.cgi?ORGANISM=10090&INPUT_SEQUENCE=XM_006495655.3&LINK_LOC=nuccore
+

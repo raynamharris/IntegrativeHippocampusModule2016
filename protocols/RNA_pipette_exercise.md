@@ -1,3 +1,6 @@
+---
+output: pdf_document
+---
 # cDNA Pipette Exercise: Serial Dilutions 
 
 ## Learning objectives
@@ -17,7 +20,7 @@ A **two-fold serial dilution** reduces the concentration by one half. For instan
 ![Concept Map](figures/serial_dilution.png)
 
 
-## EXERCISE ONE – PIPETTING EXERCISE AND USING THE NANODROP
+## EXERCISE ONE: PIPETTING EXERCISE AND USING THE NANODROP
 
 1.	Obtain an aliquot of RNA for use in the exercise.  What is the initial listed concentration of the RNA?  Record this number in your notebook.
 2.	Blank the NanoDrop with nuclease-free water. Before diluting your RNA, spec the RNA out on the NanoDrop machine. Record the concentration and the OD260/280 in your lab notebook.  If possible, save the output of the NanoDrop and import it into your PowerPoint notebook file.  What is this output, and what information does it give you about the RNA?  What information is missing from this RNA measurement?  How does the measured concentration compare with the reported concentration of the RNA standard?
